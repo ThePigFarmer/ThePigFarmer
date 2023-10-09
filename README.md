@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ThePigFarmer
-- 👀 I’m interested in Linux, imbedded developement, 3d printing, and yes, Emacs.
+- 👀 I’m interested in Linux, imbedded developement, 3d printing, and Emacs.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alanwedel19@gmail.com
-- Emacs is the best editor
